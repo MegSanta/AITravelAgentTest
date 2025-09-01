@@ -6,6 +6,6 @@ Asking for the cheapest flight:
 
 GIF created with **ScreenToGif**
 
-![Screenshot](./CheapestFlight.jpeg)
+<img src='./CheapestFlight.jpeg' title='Screen Shot' width='' alt='Screen Shot' />
 
 
